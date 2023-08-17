@@ -1,7 +1,6 @@
 This is a showcase and archive of my previous work that I've done throughout my time at university.
 
-NileDotCom = Standalone GUI application that simulates an e-store which allows the user to add in stock items to a shopping cart and once all items are included, total all costs, 
-             produces an invoice, and append a transaction log file.
+NileDotCom = Standalone GUI application that simulates an e-store which allows the user to add in stock items to a shopping cart and once all items are included, total all costs, produces an invoice, and append a transaction log file.
 Banking Simulator = An application employing synchronized/cooperating multiple threads in java
 Enterprise P3 = Two-Tier client-server application development with MySQL and JDBC
 Enterprise P4 = Three-tier Distributed Web-based Application
