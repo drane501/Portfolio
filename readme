@@ -1,6 +1,6 @@
 Welcome to Alex Spiegl's Github Archive
 
-This is a showcase and archive of my previous work that I've done throughout my time at university.
+This is a showcase of my previous work that I've done over the last couple years.
 
 NileDotCom = Standalone GUI application that simulates an e-store which allows the user to add in stock items to a shopping cart and once all items are included, total all costs, produces an invoice, and append a transaction log file.
 Banking Simulator = An application employing synchronized/cooperating multiple threads in java
