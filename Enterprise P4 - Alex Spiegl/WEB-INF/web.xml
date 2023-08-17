@@ -1,0 +1,81 @@
+<web-app>
+
+   <!-- General description of your Web application -->
+   <display-name>
+      Project 4 Enterprise Systems Servlet/JSP Home Page (CNT 4714 - Spring - 2023)
+   </display-name>
+
+   <description>
+      Name: Alex Spiegl
+      Course: CNT 4714–Spring2023–Project 4
+      Assignment title: A Three-Tier Distributed Web-Based Application
+      Date: Monday April 24th, 2023
+   </description>
+
+   <!-- Servlet definitions -->
+   <servlet>
+      <servlet-name>alpha</servlet-name>
+      <description>
+         A servlet that handles HTTP requests.
+      </description>
+      <servlet-class>rootServlet</servlet-class>
+	<init-param>
+    		   <param-name>databaseDriver</param-name>
+    	 	   <param-value>com.mysql.cj.jdbc.Driver</param-value>
+    		</init-param>
+    		
+    		<init-param>
+    		    <param-name>databaseName</param-name>
+    		    <param-value>jdbc:mysql://localhost:3306/project4</param-value>
+    		</init-param>
+    		
+    		<init-param>
+            <param-name>username</param-name>
+    	    	<param-value>root</param-value>
+    		</init-param>
+    		
+    		<init-param>
+    		    <param-name>password</param-name>
+    		    <param-value></param-value>
+    		</init-param>
+   </servlet>
+
+   <servlet>
+      <servlet-name>beta</servlet-name>
+      <description>
+         A servlet that handles HTTP requests.
+      </description>
+      <servlet-class>clientServlet</servlet-class>
+	<init-param>
+    		   <param-name>databaseDriver</param-name>
+    	 	   <param-value>com.mysql.cj.jdbc.Driver</param-value>
+    		</init-param>
+    		
+    		<init-param>
+    		    <param-name>databaseName</param-name>
+    		    <param-value>jdbc:mysql://127.0.0.1:3306/project4</param-value>
+    		</init-param>
+    		
+    		<init-param>
+            <param-name>username</param-name>
+    	    	<param-value>client</param-value>
+    		</init-param>
+    		
+    		<init-param>
+    		    <param-name>password</param-name>
+    		    <param-value></param-value>
+    		</init-param>
+   </servlet>
+
+   <!-- Servlet mappings -->
+   <servlet-mapping>
+      <servlet-name>alpha</servlet-name>
+      <url-pattern>/rootServlet</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>beta</servlet-name>
+      <url-pattern>/clientServlet</url-pattern>
+   </servlet-mapping>	
+
+</web-app>
