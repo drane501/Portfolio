@@ -1,0 +1,16 @@
+300120232115, 14,  "Stanley #2 Philips Screwdriver",  true, 6.95, 1, 0, 6.95, 01/30/2023, 09:15:45 PM EST
+300120232115, 14,  "Stanley #2 Philips Screwdriver",  true, 6.95, 1, 0, 6.95, 01/30/2023, 09:15:45 PM EST
+300120232115, 268,  "Sidi Wire 2 carbon shoes",  true, 499.99, 421, 20, 168396.632, 01/30/2023, 09:15:45 PM EST
+300120232115, 1111,  "Top Secret Twenty One - Janet Evanovich",  true, 8.99, 2, 0, 17.98, 01/30/2023, 09:15:45 PM EST
+300120232117, 29741,  "Plush teddy bear 8 inch",  true, 24.0, 4, 0, 96.0, 01/30/2023, 09:17:11 PM EST
+300120232117, 286934,  "1 lb - coffee beans",  true, 6.5, 44, 20, 228.8, 01/30/2023, 09:17:11 PM EST
+300120232117, 582913,  "Look Keo 2 Max pedals",  true, 135.0, 3, 0, 405.0, 01/30/2023, 09:17:11 PM EST
+300120232118, 14,  "Stanley #2 Philips Screwdriver",  true, 6.95, 3, 0, 20.85, 01/30/2023, 09:18:32 PM EST
+300120232118, 14,  "Stanley #2 Philips Screwdriver",  true, 6.95, 4, 0, 27.8, 01/30/2023, 09:18:32 PM EST
+300120232118, 14,  "Stanley #2 Philips Screwdriver",  true, 6.95, 1, 0, 6.95, 01/30/2023, 09:18:32 PM EST
+300120232118, 14,  "Stanley #2 Philips Screwdriver",  true, 6.95, 5, 10, 31.275000000000002, 01/30/2023, 09:18:32 PM EST
+300120232119, 2190,  "Hefty 30 gal with handles - box 40",  true, 19.0, 4, 0, 76.0, 01/30/2023, 09:19:32 PM EST
+300120232119, 198,  "Box of 10 Sharpie Roller 0.5mm",  true, 6.5, 25, 20, 130.0, 01/30/2023, 09:19:32 PM EST
+300120232119, 23,  "Tamiya 2oz paint - ferrari red",  true, 2.39, 91, 20, 173.99200000000002, 01/30/2023, 09:19:32 PM EST
+300120232119, 14,  "Stanley #2 Philips Screwdriver",  true, 6.95, 91, 20, 505.96000000000004, 01/30/2023, 09:19:32 PM EST
+300120232119, 19981,  "Pledge furniture polish 13oz",  true, 6.5, 491, 20, 2553.2000000000003, 01/30/2023, 09:19:32 PM EST
