@@ -5,3 +5,4 @@ NileDotCom = Standalone GUI application that simulates an e-store which allows t
 Banking Simulator = An application employing synchronized/cooperating multiple threads in java
 Enterprise P3 = Two-Tier client-server application development with MySQL and JDBC
 Enterprise P4 = Three-tier Distributed Web-based Application
+Website = HTML based website with CSS and adapted boostrapping
